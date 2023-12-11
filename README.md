@@ -26,7 +26,7 @@ The dataset includes images of nine different types of dates, each representing 
 Getting Started
 
 #### Clone the Repository:
-git clone https://github.com/RazanAljuraysi/Tamrah/git
+git clone https://github.com/sara4se/Tamrah/
 
 cd Tamrah
 
